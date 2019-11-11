@@ -24,3 +24,7 @@ I did this on MacOS but it should be fairly portable, if its not working for you
 8. `python3 installData.py --port <PORT NUMBER>` to build database
 
 	Note: the script **will** drop the ElementData.data collection, do not run it if you do not want to completely reset your local ElementData
+
+---------
+
+[MongoDB Compass](https://www.mongodb.com/download-center/compass) is highly recommended for viewing and editing data help in this database, however it is not required.
